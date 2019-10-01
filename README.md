@@ -1,1 +1,1 @@
-# Digital-electronics-2
+#__Digital Electronics course__
